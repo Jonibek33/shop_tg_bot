@@ -1,0 +1,83 @@
+{
+  "menu": {
+    "кроссовки": [
+      {
+        "id": 1,
+        "name": "Nike",
+        "price": 30.0,
+        "description": "Натуральная кожа, резиновая подошва",
+        "image": "C:/Users/Shacsim_systems©/Desktop/кросс_найк.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Puma",
+        "price": 27.0,
+        "description": "Синтетическая кожа, легкая подошва",
+        "image": "C:/Users/Shacsim_systems©/Desktop/кросс_пума.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Adidas",
+        "price": 35.0,
+        "description": "Текстиль, амортизирующая подошва",
+        "image": "C:/Users/Shacsim_systems©/Desktop/кросс_адидас.jpg"
+      }
+    ],
+    "футболки": [
+      {
+        "id": 4,
+        "name": "Nike",
+        "price": 10.0,
+        "description": "Из хлопка, дышащий материал",
+        "image": "C:/Users/Shacsim_systems©/Desktop/фут_найк.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Puma",
+        "price": 11.0,
+        "description": "Синтетика, легкий и прочный",
+        "image": "C:/Users/Shacsim_systems©/Desktop/фут_пума.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Adidas",
+        "price": 9.0,
+        "description": "Текстиль, удобный крой",
+        "image": "C:/Users/Shacsim_systems©/Desktop/фут_адидас.jpg"
+      }
+    ],
+    "свитпэнты": [
+      {
+        "id": 7,
+        "name": "Nike",
+        "price": 15.0,
+        "description": "Из хлопка, мягкий и теплый",
+        "image": "C:/Users/Shacsim_systems©/Desktop/штаны_найк.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Puma",
+        "price": 20.0,
+        "description": "Синтетика, стильный дизайн",
+        "image": "C:/Users/Shacsim_systems©/Desktop/штаны_пума.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Adidas",
+        "price": 30.0,
+        "description": "Текстиль, спортивный стиль",
+        "image": "C:/Users/Shacsim_systems©/Desktop/штаны_адидас.jpg"
+      }
+    ]
+  },
+  "orders": {
+    "1686552851": {
+      "items": {},
+      "total": 0
+    }
+  },
+  "settings": {
+    "delivery_fee": 2.5,
+    "min_order": 15.0
+  }
+}
